@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Syllabus section contains information about course overview, format and
+  details, structure, group work, evaluation and feedback, grading, professional communication
+  and groupwork, course materials and required texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
